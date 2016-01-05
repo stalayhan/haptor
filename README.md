@@ -40,4 +40,11 @@ this app is tesed w/ Irrlicht SDK 1.8.3 (64-bit) on Ubuntu 14.04 **(x86_64 x86_6
 * If you are using Code-Blocks to run this source code under Linux - Many common problems can be solved with one of this problem steps. Project Build Options.. → → Linker Settings → Add **/usr/lib/x86_64-linux-gnu/libX11.so, /usr/lib/x86_64-linux-gnu/libXxf86vm.so.1**
 
 ###License
-<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/WTFPL_badge.svg/220px-WTFPL_badge.svg.png'/>
+The MIT License (MIT)
+Copyright © 2016 GTU
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
